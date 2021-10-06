@@ -1,0 +1,18 @@
+[submodule "ticket-service"]
+	path = ticket-service
+	url = https://github.com/dfki-asr/ticket-service.git
+[submodule "sparql-api-wrapper"]
+	path = sparql-api-wrapper
+	url = https://github.com/dfki-asr/sparql-api-wrapper.git
+[submodule "mode-detector"]
+	path = mode-detector
+	url = https://github.com/dfki-asr/mode-detector.git
+[submodule "gtfs-converter"]
+	path = gtfs-converter
+	url = https://github.com/dfki-asr/gtfs-converter.git
+[submodule "feedback-service"]
+	path = feedback-service
+	url = https://github.com/dfki-asr/feedback-service.git
+[submodule "feedback-ontology"]
+	path = feedback-ontology
+	url = https://github.com/dfki-asr/feedback-ontology.git
